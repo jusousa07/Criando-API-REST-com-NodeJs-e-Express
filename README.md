@@ -16,7 +16,7 @@ Instalação
 
 Clone este repositório:
 
-git clone https://github.com/jusousa0/Criando-API-REST-com-NodeJs-e-Express.git
+git clone https://github.com/jusousa07/Criando-API-REST-com-NodeJs-e-Express.git
 
 Acesse o diretório do projeto:
 
