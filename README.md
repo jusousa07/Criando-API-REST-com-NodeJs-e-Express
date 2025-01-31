@@ -1,4 +1,4 @@
-API de Gerenciamento de Alunos
+API de Gerenciamento de Alunos.
 
 Descrição
 
